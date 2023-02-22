@@ -26,5 +26,4 @@ str_pwd=""
 for i in range(0,len(password)):
   str_pwd+=password[i]
 print(str_pwd)
-#Hard Level - Order of characters randomised:
-#e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
+
